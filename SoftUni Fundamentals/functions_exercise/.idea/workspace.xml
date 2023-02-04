@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f360465-ccb2-48cd-b5f0-4b957bfd38c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../functions/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/calculations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.even_numbers">
+  <component name="RunManager" selected="Python.sort">
     <configuration name="add_and_subtract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="functions_exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smallest_of_three_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="functions_exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smallest_of_three_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort" />
         <item itemvalue="Python.even_numbers" />
         <item itemvalue="Python.odd_and_even_sum" />
         <item itemvalue="Python.characters_in_range" />
         <item itemvalue="Python.add_and_subtract" />
-        <item itemvalue="Python.smallest_of_three_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -175,30 +176,5 @@
       <updated>1675506782525</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/even_bumbers.py</url>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/even_bumbers.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/even_bumbers.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/even_bumbers.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

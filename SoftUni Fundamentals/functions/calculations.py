@@ -1,24 +1,16 @@
-def calculate(command, first_num, second_num):
+def calculation(operator, a, b):
+    if operator == "multiply":
+        return a * b
+    elif operator == "divide":
+        return int(a / b)
+    elif operator == "add":
+        return a + b
+    elif operator == "subtract":
+        return a - b
 
-    result = 0
 
-    if command == "multiply":
-        result = first_num * second_num
+current_operator = input()
+current_a = int(input())
+current_b = int(input())
 
-    elif command == "divide":
-        result = int(first_num / second_num) # This could be also a result = first_num // second_num
-
-    elif command == "add":
-        result = first_num + second_num
-
-    elif command == "substract":
-        result = first_num - second_num
-
-    return result
-
-command = input()
-first_num = int(input())
-second_num = int(input())
-
-res = calculate(command, first_num, second_num)
-print(res)
+print(calculation(current_operator, current_a, current_b))
