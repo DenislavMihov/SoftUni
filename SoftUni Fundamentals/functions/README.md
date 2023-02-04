@@ -47,4 +47,8 @@ Print the result formatted to the second decimal place.
 
 Create a function that calculates and returns the area of a rectangle by given width and height. Print the result on the console
 
+7. Rounding
+
+Write a program that rounds all the given numbers, separated by a single space, and prints the result as a list. Use round().
+
 
