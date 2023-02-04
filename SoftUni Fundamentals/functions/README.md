@@ -19,3 +19,8 @@ Write a function that receives a grade between 2.00 and 6.00 and prints the corr
 
 · 5.50 – 6.00 - "Excellent"
 
+3. Calculations
+
+Create a function that receives three parameters, calculates a result depending on the given operator, and returns it. Print the result of the function.
+
+The input comes as three parameters – an operator as a string and two integer numbers. The operator can be one of the following: "multiply", "divide", "add", "subtract".
