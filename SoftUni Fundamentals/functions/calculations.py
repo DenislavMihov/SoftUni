@@ -6,7 +6,7 @@ def calculate(command, first_num, second_num):
         result = first_num * second_num
 
     elif command == "divide":
-        result = int(first_num / second_num)
+        result = int(first_num / second_num) # This could be also a result = first_num // second_num
 
     elif command == "add":
         result = first_num + second_num
