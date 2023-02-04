@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f360465-ccb2-48cd-b5f0-4b957bfd38c6" name="Changes" comment="" />
+    <list default="true" id="3f360465-ccb2-48cd-b5f0-4b957bfd38c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/functions_exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/functions_exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Code/Python_Projects/SoftUni/SoftUni Fundamentals",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
