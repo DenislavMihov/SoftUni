@@ -28,3 +28,17 @@ The input comes as three parameters – an operator as a string and two integer 
 4. Repeat String
 
 Write a function that receives a string and a counter n. The function should return a new string – the result of repeating the old string n times. Print the result of the function. Try using lambda.
+
+5. Orders
+
+Write a function that calculates the total price of an order and returns it. The function should receive one of the following products: "coffee", "coke", "water", or "snacks", and a quantity of the product. The prices for a single piece of each product are:
+
+· coffee - 1.50
+
+· water - 1.00
+
+· coke - 1.40
+
+· snacks - 2.00
+
+Print the result formatted to the second decimal place.
