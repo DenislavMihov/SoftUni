@@ -28,5 +28,9 @@ You will receive a single number. You should write a function that returns the s
 
 Print the result of the function on the console
 
+5. Even Numbers
+
+Write a program that receives a sequence of numbers (integers) separated by a single space. It should print a list of only the even numbers. Use filter()
+
 
 
