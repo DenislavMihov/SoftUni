@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aa2a5e1-40d0-4c00-bd29-1add0a279027" name="Changes" comment="" />
+    <list default="true" id="0aa2a5e1-40d0-4c00-bd29-1add0a279027" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +46,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.orders">
-    <configuration name="absolute_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.calculate_recangle_area">
+    <configuration name="calculate_recangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="functions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/absolute_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculate_recangle_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculate_recangle_area" />
         <item itemvalue="Python.orders" />
         <item itemvalue="Python.repeat_string" />
         <item itemvalue="Python.calculations" />
         <item itemvalue="Python.grades" />
-        <item itemvalue="Python.absolute_values" />
       </list>
     </recent_temporary>
   </component>

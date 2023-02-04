@@ -42,3 +42,9 @@ Write a function that calculates the total price of an order and returns it. The
 · snacks - 2.00
 
 Print the result formatted to the second decimal place.
+
+6. Calculate Rectangle Area
+
+Create a function that calculates and returns the area of a rectangle by given width and height. Print the result on the console
+
+
