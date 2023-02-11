@@ -1,5 +1,6 @@
 text = input()
-result = [char for char in text if char.lower() not in ['a', 'o', 'u', 'e', 'i']]
+forbidden_letters = ['a', 'o', 'u', 'e', 'i']
+result = [char for char in text if char.lower() not in forbidden_letters]
 
 
 #for char in text:
