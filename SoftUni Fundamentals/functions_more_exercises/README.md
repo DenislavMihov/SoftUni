@@ -1,3 +1,5 @@
+More Exercises: Functions
+
 1.	Data Types
 
 Write a function that, depending on the first line of the input, reads one of the following strings: "int", "real", or "string".
