@@ -13,4 +13,3 @@ while name != "End":
 
 print(f"Going: {', '.join(party.people)}")
 print(f"Total: {len(party.people)}")
-#{', '.join(party.people)}
