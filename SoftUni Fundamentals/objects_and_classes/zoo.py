@@ -39,3 +39,14 @@ for _ in range(rows):
 
 species = input()
 print(zoo.get_info(species))
+
+
+# input
+# Great Zoo
+# 5
+# mammal lion
+# mammal bear
+# fish salmon
+# bird owl
+# mammal tiger
+# mammal
