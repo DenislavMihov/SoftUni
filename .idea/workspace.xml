@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SoftUni Fundamentals/text_processing_exercise/emoticon_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni Fundamentals/text_processing_exercise/replace_repeating_chars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.emoticon_finder">
+  <component name="RunManager" selected="Python.replace_repeating_chars">
     <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="valid_username" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni Fundamentals/text_processing_exercise/valid_username.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni Fundamentals/text_processing_exercise/replace_repeating_chars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.replace_repeating_chars" />
         <item itemvalue="Python.emoticon_finder" />
         <item itemvalue="Python.caesar_cipher" />
         <item itemvalue="Python.extract_file" />
         <item itemvalue="Python.character_multiplier" />
-        <item itemvalue="Python.valid_username" />
       </list>
     </recent_temporary>
   </component>
