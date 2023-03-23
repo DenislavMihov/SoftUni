@@ -24,6 +24,7 @@ while True:
 
 
 print("Bought furniture:")
-print("\n".join(bought_items))
+for product in bought_items:
+    print(product)
 print(f"Total money spend: {total_price:.2f}")
 
