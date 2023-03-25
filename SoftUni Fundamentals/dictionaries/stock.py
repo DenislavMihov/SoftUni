@@ -12,6 +12,7 @@ for index in range(0, len(data), 2):
 
 for searched_product in searched_products:
     if searched_product in products.keys():
-        print(f"We have {products[searched_product]} of {searched_product} left")
+        quantity = products[searched_product]
+        print(f"We have {quantity} of {searched_product} left")
     else:
         print(f"Sorry, we don't have {searched_product}")
