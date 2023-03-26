@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SoftUni Fundamentals/dictionaries_exercise/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUni Fundamentals/dictionaries_exercise/phonebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Code\Python_Projects\SoftUni\SoftUni Fundamentals\regular_expressions_exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.capitals">
+  <component name="RunManager" selected="Python.phonebook">
     <configuration name="a_miner_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni Fundamentals/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SoftUni Fundamentals/dictionaries_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni Fundamentals/test/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftUni Fundamentals/dictionaries_exercise/phonebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.phonebook" />
         <item itemvalue="Python.capitals" />
         <item itemvalue="Python.a_miner_task" />
         <item itemvalue="Python.count_chars_in_a_string" />
         <item itemvalue="Python.ascii_values" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +183,11 @@
           <url>file://$PROJECT_DIR$/SoftUni Fundamentals/objects_and_classes/zoo.py</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftUni Fundamentals/dictionaries_exercise/phonebook.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
