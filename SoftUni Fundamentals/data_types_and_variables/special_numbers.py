@@ -3,6 +3,12 @@ n = int(input())
 
 for num in range (1, n +1):
     is_special = False
-    if num == 5 or num == 7 or num == 11:
+    num_as_str = str(num)
+    sum_digits = 0
+
+    for char in num_as_str:
+        sum_digits += int(char)
+
+    if (sum_digits == 5) or (sum_digits == 7) or (sum_digits == 11):
         is_special = True
-        print(f"{num} ->")
+    print(f"{num} -> {is_special}")
