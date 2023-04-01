@@ -6,6 +6,6 @@ minutes = hours * 60
 
 print(f"{centuries} centuries = "
       f"{years} years = "
-      f"{days} = days = "
+      f"{days} days = "
       f"{hours} hours = "
-      f"{minutes}  minutes")
+      f"{minutes} minutes")
