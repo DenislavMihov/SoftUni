@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni Fundamentals/data_types_and_variables/centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni Fundamentals/data_types_and_variables/centuries_to_minutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUni Fundamentals/data_types_and_variables/next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUni Fundamentals/data_types_and_variables/next_happy_year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
