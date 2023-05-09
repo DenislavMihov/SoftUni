@@ -1,7 +1,7 @@
 data = input()
 indexes = []
 
-for i in ragne(len(data)):
+for i in range(len(data)):
     ch = data[i]
 
     if ch == "(":
