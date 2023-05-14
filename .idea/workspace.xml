@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/list_as_stacks_and_queues_exercise/key_revolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/tuples_and_sets/count_same_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Code\Python_Projects\SoftUni\SoftUni Fundamentals\regular_expressions_exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.key_revolver">
+  <component name="RunManager" selected="Python.count_same_values">
     <configuration name="balanced_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fashion_boutique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="count_same_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/list_as_stacks_and_queues_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/tuples_and_sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Code\Python_Projects\SoftUni\Python Advanced\list_as_stacks_and_queues_exercise\fashion_boutique.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/tuples_and_sets/count_same_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_same_values" />
         <item itemvalue="Python.key_revolver" />
         <item itemvalue="Python.robotics" />
         <item itemvalue="Python.balanced_parentheses" />
         <item itemvalue="Python.truck_tour" />
-        <item itemvalue="Python.fashion_boutique" />
       </list>
     </recent_temporary>
   </component>
