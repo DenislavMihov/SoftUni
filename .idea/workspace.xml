@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/stacks_queues_tuples_and_sets_exercises/expression_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/stacks_queues_tuples_and_sets_exercises/paint_colors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Code\Python_Projects\SoftUni\SoftUni Fundamentals\regular_expressions_exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.expression_evaluator">
+  <component name="RunManager" selected="Python.paint_colors">
     <configuration name="expression_evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="periodic_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="paint_colors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/tuples_and_sets_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/stacks_queues_tuples_and_sets_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/tuples_and_sets_exercise/periodic_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/stacks_queues_tuples_and_sets_exercises/paint_colors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.paint_colors" />
         <item itemvalue="Python.expression_evaluator" />
         <item itemvalue="Python.milkshakes" />
         <item itemvalue="Python.numbers" />
         <item itemvalue="Python.sets_of_elements" />
-        <item itemvalue="Python.periodic_table" />
       </list>
     </recent_temporary>
   </component>
