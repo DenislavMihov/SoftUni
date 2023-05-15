@@ -1,6 +1,4 @@
-nums = [int(num) for num in input().split()]
-n = nums[0]
-m = nums[1]
+n, m = [int(num) for num in input().split()]
 
 n_set = set()
 m_set = set()
