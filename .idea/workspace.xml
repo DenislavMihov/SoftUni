@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfb8aa8c-a91e-47bc-9868-f879fa30ffeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/multidimensional_lists/even_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/multidimensional_lists/sum_matrix_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/multidimensional_lists/flattening_matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
